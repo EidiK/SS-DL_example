@@ -38,3 +38,4 @@ Running the tool can be accomplished inthe following way:
 1. Access the repository [SS-DL-tool](https://github.com/shcaba/SS-DL-tool)
 
  - In "< > Code" Download the ZIP file
+ - ![Imagem1](https://github.com/EidiK/SS-DL_example/assets/102596784/36aee7f9-2188-40e6-8fac-0892a75f4ec8)
