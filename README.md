@@ -1,18 +1,3 @@
----
-title: "SS-DL tool"
-author: "LG Cardoso (cardosolg15@gmail.com); E Kikuchi (eidikikuchi@gmail.com); J Cope (jason.cope@noaa.gov)"
-date: "`r Sys.Date()`"
-output:
-  rmdformats::readthedown:
-    highlight: kate
----
-
-```{r setup, include=FALSE}
-## Global options
-knitr::opts_chunk$set(cache = TRUE)
-```
-
-
 # The Stock Synthesis Data-limited Tool (SS-DL tool)
 
 The SS-DL tool was developed by Dr. Jason Cope (NWFSC - NOAA) and use Stock Synthesis (Methot and Wetzel 2013) to implement several standard data-limited assessment methods all in one modeling framework. Under a unified modeling framework, additional data can be added as it becomes available. The tool builds Stock Synthesis files for provided data and life history information. It produces full plots and tables for each model run via the r4ss package and additional screen output for straightforward interpretation
